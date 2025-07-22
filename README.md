@@ -14,11 +14,13 @@ I'm a **Junior Web Developer** with a strong passion for clean code, great desig
 
 | Frontend                         | Backend         | Tools & Other         |
 |----------------------------------|----------------|------------------------|
-| ![HTML5](assets/html5.svg) | PHP, Node.js    | Git, Storybook         |
-|  |                    |                      |
-| JavaScript      | Express         | Docker (basic)         |
-| TypeScript      | MySQL           | REST APIs              |
-| Angular         | NoSQL           | customtkinter (Python) |
+| [![HTML5](assets/html5.svg)](https://www.w3schools.com/html/) | [![PHP](assets/php.svg)](https://www.php.net/) | [![Git](assets/git.svg)](https://git-scm.com/) |
+| [![JavaScript](assets/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![Python](assets/python.svg)](https://www.python.org/) | [![Storybook](assets/storybook.svg)](https://storybook.js.org/) |
+| [![TypeScript](assets/typescript.svg)](https://www.typescriptlang.org/) | [![NodeJS](assets/nodedotjs.svg)](https://nodejs.org/en) | [![Docker](assets/docker.svg)](https://www.docker.com/) |
+| [![Angular](assets/angular.svg)](https://angular.dev/) | [![Express](assets/express.svg)](https://expressjs.com/) | REST APIs |
+| [![React](assets/react.svg)](https://react.dev/) | [![MySQL](assets/mysql.svg)](https://www.mysql.com/) |  |
+| [![CSS](assets/css.svg)](https://developer.mozilla.org/de/docs/Web/CSS) | [![SQLite](assets/sqlite.svg)](https://www.sqlite.org/)   |                         |
+| [![SCSS](assets/sass.svg)](https://sass-lang.com/) | NoSQL              |              |
 
 🎮 **Fun projects:**
 
