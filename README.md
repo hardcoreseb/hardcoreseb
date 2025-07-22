@@ -12,9 +12,10 @@ I'm a **Junior Web Developer** with a strong passion for clean code, great desig
 
 📚 **Technologies I use:**
 
-| Frontend        | Backend         | Tools & Other         |
-|-----------------|----------------|------------------------|
-| HTML, CSS/SCSS  | PHP, Node.js    | Git, Storybook         |
+| Frontend                         | Backend         | Tools & Other         |
+|----------------------------------|----------------|------------------------|
+| ![HTML5](assets/html5.svg) | PHP, Node.js    | Git, Storybook         |
+|  |                    |                      |
 | JavaScript      | Express         | Docker (basic)         |
 | TypeScript      | MySQL           | REST APIs              |
 | Angular         | NoSQL           | customtkinter (Python) |
